@@ -17,10 +17,10 @@ have contributed to patterns observed in the archaeological record.
 The ABM is intended to explore alternative hypotheses by representing selected mechanisms and examining the patterns that emerge from their interactions.
 
 ## Model design
-
+[Work in progress]
 
 ## Repository structure
-
+[Work in progress]
 \`\`\`
 
 model/       → NetLogo model files (.nlogo)
@@ -32,13 +32,13 @@ docs/        → Documentation and notes
 \`\`\`
 
 ## Usage
-
+[Work in progress]
 ### Requirements
 - [NetLogo](https://ccl.northwestern.edu/netlogo/)
 - [R](https://www.r-project.org/) (optional, for analysis)
 
 ### How to run
-
+[Work in progress]
 ## Results
 
 Simulation results include different patterns and comparisons with available archaeological data.
