@@ -1,79 +1,61 @@
-# project2026_model-fernandobastias
+# project2026_livingthebaltic
 
 [![DOI](https://zenodo.org/badge/1448132380.svg)](https://doi.org/10.5281/zenodo.24008075)
 
 ## Overview
 
-This is a forked repository of a **template** for simulation projects developed in the MA course 
- **“Agent-based Modelling for Archaeologists: From Concept to Application and Publication.”**
+This project develops an exploratory agent-based model (ABM) that investigates human communities, marine mammals, and environmental change in the prehistoric Baltic Sea Basin.  
+I created it as part of the MA course *Agent-based Modelling for Archaeologists* taught at the University of Cologne, within my doctoral studies at Stockholm University.
+Due this is an ongoing project, most of the following is under development and it will be updated together with the model.
 
-It follows the recommended folder structure and documentation style to ensure that every project is:
-- Reproducible  
-- Transparent  
-- Citable  
-- Easy to understand and extend
+## Concept and objectives
 
-In particular, this project aims to research on human-animal-environment relationships during different climate scenarios in the baltic region.
+The overall project focuses on humna-animal-environment relationships in the context of the environmental transformations that shaped the Baltic Sea Basin following the last glaciation.
+Its main interest is to explore how changing environmental conditions and human practices of marine mammal exploitation may have interacted over time, and how these interactions could  
+have contributed to patterns observed in the archaeological record.  
 
----
+The ABM is intended to explore alternative hypotheses by representing selected mechanisms and examining the patterns that emerge from their interactions.
+
+## Model design
+
 
 ## Repository structure
 
-| Folder | Contents | Purpose |
-|---------|-----------|----------|
-| `model/` | NetLogo model files (`.nlogo`, `.nlogox`) | Implementation of your simulation |
-| `data/` | Input datasets (e.g., environment, agents) | Empirical or synthetic data |
-| `results/` | Simulation outputs | Results from experiments or BehaviorSpace runs |
-| `analysis/` | R scripts and outputs | Data preparation, analysis and visualisation |
-| `docs/` | Notes and references | Conceptual documentation, figures, and citations |
+\`\`\`
 
----
+model/       → NetLogo model files (.nlogo)
+data/        → Input datasets (CSV, shapefiles, etc.)
+results/     → Simulation outputs
+analysis/     → R scripts for analysis
+docs/        → Documentation and notes
 
-## Getting started
+\`\`\`
 
-### Option 1 – Work fully online
+## Usage
 
-You can edit files directly in your browser:
-1. Click “Use this template” → “Create a new repository.”
-2. Name it `project2025_<model-name>`.
-3. Edit files by clicking “Add file → Create new file” or the ✏️ icon.
+### Requirements
+- [NetLogo](https://ccl.northwestern.edu/netlogo/)
+- [R](https://www.r-project.org/) (optional, for analysis)
 
-### Option 2 – Clone locally (if you have Git)
+### How to run
 
-```bash
-git clone https://github.com/CoDArchLab-ABM/project2025_<model-name>.git
-```
+## Results
 
-Then edit, commit, and push as usual.
-
----
-
-## Recommended next steps
-
-1. Fill in your project’s conceptual model in `docs/notes.md`.
-2. Add a draft NetLogo file in `model/`.
-3. Add placeholder data (if relevant) in `data/`.
-4. Commit your changes and push them to GitHub.
-5. Publish your first release (`v0.1`) and connect Zenodo to obtain a DOI.
-
----
+Simulation results include different patterns and comparisons with available archaeological data.
 
 ## License
 
-This template uses the [MIT License](LICENSE).
-You may change it to another open license if needed (e.g. GPL-3.0, CC-BY-4.0).
-
----
 
 ## Citation
 
-> Angourakis, A. (2025). *CoDArchLab/Project2025_Template: Course repository template for Agent-based Modelling for Archaeologists.*
-> DOI: [10.5281/zenodo.xxxxxxx](https://doi.org/10.5281/zenodo.xxxxxxx)
-
----
+If you use or adapt this model, please cite:
+> Bastias, F. (2026). *Project2026_livingthebaltic: An agent-based model of human-animal-environment interaction through changing climatic scenarios in the Baltic sea basin*. Version 0.1.
+> DOI: https://doi.org/10.5281/zenodo.24008075
 
 ## Acknowledgements
 
-Developed for the MA course
-**Agent-based Modelling for Archaeologists: From Concept to Application and Publication**
-by Andreas Angourakis and the CoDArchLab.
+This repository was forked from: Angourakis, A. (2025). *CoDArchLab/Project2025_Template: Course repository template for Agent-based Modelling for Archaeologists.*  
+This work was developed as part of the MA course *Agent-based Modelling for Archaeologists: From Concept to Application and Publication*,
+taught by Andreas Angourakis at the University of Cologne.
+
+---
