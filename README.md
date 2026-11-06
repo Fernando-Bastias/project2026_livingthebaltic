@@ -1,19 +1,19 @@
-# project2025_template
+# project2026_model-fernandobastias
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxxx)
 
 ## Overview
 
-This repository serves as a **template** for simulation projects developed in the MA course  
-**“Agent-based Modelling for Archaeologists: From Concept to Application and Publication.”**
+This is a forked repository of a **template** for simulation projects developed in the MA course 
+ **“Agent-based Modelling for Archaeologists: From Concept to Application and Publication.”**
 
-It provides a recommended folder structure and documentation style to ensure that every project is:
+It follows the recommended folder structure and documentation style to ensure that every project is:
 - Reproducible  
 - Transparent  
 - Citable  
 - Easy to understand and extend
 
-Replace this text with a short description of your own project once you fork the repository.
+In particular, this project aims to research on human-animal-environment relationships during different climate scenarios in the baltic region.
 
 ---
 
