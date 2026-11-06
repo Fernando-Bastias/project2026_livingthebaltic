@@ -1,6 +1,6 @@
 # project2026_model-fernandobastias
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxxx)
+[![DOI](https://zenodo.org/badge/1448132380.svg)](https://doi.org/10.5281/zenodo.24008075)
 
 ## Overview
 
