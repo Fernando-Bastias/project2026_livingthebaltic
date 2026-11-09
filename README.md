@@ -1,4 +1,4 @@
-# project2026_livingthebaltic
+# Living the Baltic: An agent-based model of human-animal-environment interaction through changing climatic scenarios in the Baltic sea basin
 
 [![DOI](https://zenodo.org/badge/1448132380.svg)](https://doi.org/10.5281/zenodo.24008075)
 
@@ -10,7 +10,7 @@ Due this is an ongoing project, most of the following is under development and i
 
 ## Concept and objectives
 
-The overall project focuses on humna-animal-environment relationships in the context of the environmental transformations that shaped the Baltic Sea Basin following the last glaciation.
+The overall project focuses on human-animal-environment relationships in the context of the environmental transformations that shaped the Baltic Sea Basin following the last glaciation.
 Its main interest is to explore how changing environmental conditions and human practices of marine mammal exploitation may have interacted over time, and how these interactions could  
 have contributed to patterns observed in the archaeological record.  
 
@@ -45,11 +45,12 @@ Simulation results include different patterns and comparisons with available arc
 
 ## License
 
+This template uses the MIT License.
 
 ## Citation
 
 If you use or adapt this model, please cite:
-> Bastias, F. (2026). *Project2026_livingthebaltic: An agent-based model of human-animal-environment interaction through changing climatic scenarios in the Baltic sea basin*. Version 0.1.
+> Bastias, F. (2026). *Living the Baltic: An agent-based model of human-animal-environment interaction through changing climatic scenarios in the Baltic sea basin*. Version 0.1.
 > DOI: https://doi.org/10.5281/zenodo.24008075
 
 ## Acknowledgements
