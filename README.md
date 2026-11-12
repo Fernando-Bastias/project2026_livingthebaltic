@@ -13,11 +13,11 @@ Due this is an ongoing project, most of the following is under development and i
 The overall project focuses on human-animal-environment relationships in the context of the environmental transformations that shaped the Baltic Sea Basin following the last glaciation.
 Its main interest is to explore how changing environmental conditions and human practices of marine mammal exploitation may have interacted over time, and how these interactions could  
 have contributed to patterns observed in the archaeological record.  
+In particular, this ABM project pretends to investigate how variability in ice conditions during the breeding season and hunting pressure exerted by humans influence the population 
+abundance and spatial distribution of harp seals through their effects on reproduction, survival, mobility and mortality, in the prehistoric Baltic Sea.
 
-The ABM is intended to explore alternative hypotheses by representing selected mechanisms and examining the patterns that emerge from their interactions.
-
-## Model design
-[Work in progress]
+## Conceptual Model  
+<img width="1484" height="915" alt="{7E2999A8-5B7F-4667-B5A1-B9F8749B1379}" src="https://github.com/user-attachments/assets/96c3f648-3543-4930-aa99-792ab1bd6325" />
 
 ## Repository structure
 [Work in progress]
