@@ -17,7 +17,7 @@ In particular, this ABM project pretends to investigate how variability in ice c
 abundance and spatial distribution of harp seals through their effects on reproduction, survival, mobility and mortality, in the prehistoric Baltic Sea.
 
 ## Conceptual Model  
-<img width="1920" height="1079" alt="{40FEBAE1-32B6-49B4-AE83-A2B790A9E103}" src="https://github.com/user-attachments/assets/3aa27b0a-8a9a-4041-a7a9-b2d0bd128c50" />  
+<img width="1918" height="1080" alt="{8671988D-5C84-44D1-9FE1-9C7B6DB38A34}" src="https://github.com/user-attachments/assets/3c628e86-1cdf-4799-a55e-aede0e85ba55" />  
 
 The conceptual model has been updated, aiming for a more direct cause-and-effect approach. This version of the model is intended to represent an initial level of  
 complexity regarding the subject of study (complexity level 1).
@@ -38,6 +38,10 @@ For this version (<code>v0.3</code>), the following parameters and variables hav
 - Human-seal encounters;
 - Hunting (as a decision);
 - Successful hunt.
+
+#### Agents
+- <code>Seals</code>
+- <code>Humans</code>
 
 ### State Machine
 The present state-machine diagram has been developed to represent how an agent (<code>seals</code>) operates under different model inputs.  
